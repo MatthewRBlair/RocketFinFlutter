@@ -1,0 +1,166 @@
+{
+  "Username": "tester",
+  "Password": "TEST123",
+  "Token": "1234qwerasdfzxcv",
+  "Toolchain": {
+    "Twister": {
+      "Color": "red",
+      "Link": "https://jsonplaceholder.typicode.com/albums/2"
+    },
+    "Jira": {
+      "Color": "red",
+      "Link": "https://jsonplaceholder.typicode.com/albums/1"
+    },
+    "Bitbucket": {
+      "Color": "green",
+      "Link": "https://jsonplaceholder.typicode.com/albums/1"
+    },
+    "Bamboo": {
+      "Color": "green",
+      "Link": "https://jsonplaceholder.typicode.com/albums/1"
+    },
+    "Fisheye/Crucible": {
+      "Color": "green",
+      "Link": "https://jsonplaceholder.typicode.com/albums/1"
+    },
+    "Confluence": {
+      "Color": "green",
+      "Link": "https://jsonplaceholder.typicode.com/albums/1"
+    },
+    "Coverity": {
+      "Color": "red",
+      "Link": "https://jsonplaceholder.typicode.com/albums/2"
+    },
+    "Sonarqube": {
+      "Color": "green",
+      "Link": "https://jsonplaceholder.typicode.com/albums/1"
+    },
+    "Nexus": {
+      "Color": "green",
+      "Link": "https://jsonplaceholder.typicode.com/albums/1"
+    }
+  },
+  "Apps": {
+    "App 1": {
+      "Integration": {
+          "Build": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1",
+            "Run": ""
+          },
+          "Unit Test": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1"
+          },
+          "Analyze": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1"
+          },
+          "Test": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1"
+          },
+          "Deliver": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1"
+          }
+      },
+      "Feature 1": {
+        "Build": {
+          "Color": "black",
+          "Link": "https://jsonplaceholder.typicode.com/albums/1"
+        },
+        "Unit Test": {
+          "Color": "black",
+          "Link": "https://jsonplaceholder.typicode.com/albums/1"
+        },
+        "Analyze": {
+          "Color": "black",
+          "Link": "https://jsonplaceholder.typicode.com/albums/1"
+        },
+        "Test": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1"
+        }
+      },
+        "Feature 2": {
+          "Build": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1"
+          },
+          "Unit Test": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1"
+          },
+          "Analyze": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1"
+          },
+          "Test": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/2"
+          }
+        }
+      },
+      "App 2": {
+        "Integration": {
+          "Build": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1"
+          },
+          "Unit Test": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1"
+          },
+          "Analyze": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1"
+          },
+          "Test": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/2"
+          },
+          "Deliver": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/3"
+          }
+        },
+        "Feature 1": {
+          "Build": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/2"
+          },
+          "Unit Test": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/3"
+          },
+          "Analyze": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/3"
+          },
+          "Test": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/3"
+          }
+        },
+        "Feature 2": {
+          "Build": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1"
+          },
+          "Unit Test": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1"
+          },
+          "Analyze": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1"
+          },
+          "Test": {
+            "Color": "black",
+            "Link": "https://jsonplaceholder.typicode.com/albums/1"
+          }
+        }
+      }
+    }
+  }
